@@ -53,6 +53,7 @@ use Acme::CPANAuthors::Register (
 	IGORM     => 'Igor Myroshnichenko',
 	INEULANDE => 'Ivan Neulander',
 	ISTERIN   => 'Ilya Sterin',
+	KAKADU    => 'Konstantin Kapitanov',
 	KAPPA     => 'Алексей Капранов',
 	KARASIK   => 'Dmitry Karasik',
 	KES       => 'Eugen Konkov',
